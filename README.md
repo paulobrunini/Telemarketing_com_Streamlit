@@ -1,3 +1,5 @@
+Projeto que demonstra a potência do Streamlit
+
 # Título do projeto
 
 Um simples resumo do uso/propósito do projeto.
